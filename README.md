@@ -108,3 +108,5 @@ Além disso, o projeto reforça que a IA não é neutra. Ela carrega vieses, lim
 Conclui-se que a Inteligência Artificial, quando integrada de forma ética e pedagógica, **não substitui o professor**, mas amplia suas possibilidades de atuação. Ela pode enriquecer o planejamento, apoiar a inclusão, estimular a criatividade e favorecer práticas mais reflexivas. Contudo, seu uso deve sempre estar a serviço da aprendizagem significativa, da autoria discente e da humanização da educação — nunca o contrário.
 
 Este projeto reafirma que a verdadeira inovação educacional não está na tecnologia em si, mas na forma como ela é utilizada, mediada e ressignificada pelo professor em sala de aula.
+
+Ao final do projeto, encontrei certa dificuldade no uso das ferramentas Microsoft, pois a licença que possuo não permite o uso do Copilot integrado. Foi necessário usar como apoio nas criações de imagens para a apresentação, mas concluí a edição do arquivo no Apresentações Google. O uso do Chat GPT e até mesmo do Copilot foram bem tranquilos, sendo necessário maior prática para aprimorar e refinar melhor os próximos projetos. 
