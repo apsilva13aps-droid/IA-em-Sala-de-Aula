@@ -92,7 +92,6 @@ A abordagem dialoga com debates globais sobre **Educação, Tecnologia e Intelig
 ---
 
 ## 🧠 Reflexão Crítica sobre o Uso da IA no Projeto  
-*(500–600 palavras)*
 
 O uso da Inteligência Artificial neste projeto pedagógico evidencia tanto o potencial transformador quanto os desafios éticos e didáticos da tecnologia na educação básica. Ao ser integrada de forma consciente, a IA mostrou-se uma aliada poderosa para o professor, especialmente no planejamento, organização e diversificação das práticas pedagógicas. No entanto, sua aplicação exige intencionalidade, criticidade e clareza de limites.
 
